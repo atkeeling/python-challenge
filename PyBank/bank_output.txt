@@ -1,0 +1,5 @@
+Number of months = 86
+Net profit = $38,382,578.00
+Average profit = $446,309.05
+Max profit = $1,170,593.00 in Feb-2012
+Max loss = $-1,196,225.00 in Sep-2013
